@@ -1,0 +1,2 @@
+# note
+Notatnik w konsoli
